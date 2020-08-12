@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srcum\\source\\repos\\ASPCALC\\ASPCALC\\ASPCALC.csproj": {}
+    "C:\\Users\\srcum\\source\\repos\\UniqueCalculator\\CalculatorMVCApp\\ASPCALC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srcum\\source\\repos\\ASPCALC\\ASPCALC\\ASPCALC.csproj": {
+    "C:\\Users\\srcum\\source\\repos\\UniqueCalculator\\CalculatorMVCApp\\ASPCALC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srcum\\source\\repos\\ASPCALC\\ASPCALC\\ASPCALC.csproj",
+        "projectUniqueName": "C:\\Users\\srcum\\source\\repos\\UniqueCalculator\\CalculatorMVCApp\\ASPCALC.csproj",
         "projectName": "ASPCALC",
-        "projectPath": "C:\\Users\\srcum\\source\\repos\\ASPCALC\\ASPCALC\\ASPCALC.csproj",
+        "projectPath": "C:\\Users\\srcum\\source\\repos\\UniqueCalculator\\CalculatorMVCApp\\ASPCALC.csproj",
         "packagesPath": "C:\\Users\\srcum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srcum\\source\\repos\\ASPCALC\\ASPCALC\\obj\\",
+        "outputPath": "C:\\Users\\srcum\\source\\repos\\UniqueCalculator\\CalculatorMVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\srcum\\AppData\\Roaming\\NuGet\\NuGet.Config",
